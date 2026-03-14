@@ -3,6 +3,10 @@
 ## Overview
 The objective is to analyze how Bitcoin market sentiment (Fear/Greed) influences trader behavior and performance on the Hyperliquid platform.
 
+## Datasets
+1. Bitcoin Market Sentiment (Fear/Greed): https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+2. Historical Trader Data (Hyperliquid): https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
 ## Setup & Execution
 1. **Prerequisites:** Python 3.8+, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
 2. **Installation:** Run `pip install pandas numpy matplotlib seaborn scikit-learn`.
